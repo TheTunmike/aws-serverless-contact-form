@@ -7,6 +7,7 @@ https://d2basjk55rimpn.cloudfront.net
 
 ## Architecture
 Browser → API Gateway → Lambda (Python) → SES → Gmail
+![Architecture](./architecture.png)
 
 ## AWS Services
 | Service | Role |
